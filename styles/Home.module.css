@@ -15,7 +15,8 @@
 	padding: 3px;
 	transition: all 200ms ease;
 	border: 1px solid black;
-	animation: 1s 1 fade;
+	animation-name: fade;
+	animation-duration: 1s;
 }
 
 .text:hover {
